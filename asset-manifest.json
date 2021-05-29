@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/robofriends/static/css/main.bd12c737.chunk.css",
-    "main.js": "/robofriends/static/js/main.c74637f7.chunk.js",
-    "main.js.map": "/robofriends/static/js/main.c74637f7.chunk.js.map",
-    "runtime-main.js": "/robofriends/static/js/runtime-main.714aaf2b.js",
-    "runtime-main.js.map": "/robofriends/static/js/runtime-main.714aaf2b.js.map",
-    "static/js/2.82747191.chunk.js": "/robofriends/static/js/2.82747191.chunk.js",
-    "static/js/2.82747191.chunk.js.map": "/robofriends/static/js/2.82747191.chunk.js.map",
-    "static/js/3.b51f9c3d.chunk.js": "/robofriends/static/js/3.b51f9c3d.chunk.js",
-    "static/js/3.b51f9c3d.chunk.js.map": "/robofriends/static/js/3.b51f9c3d.chunk.js.map",
-    "index.html": "/robofriends/index.html",
-    "static/css/main.bd12c737.chunk.css.map": "/robofriends/static/css/main.bd12c737.chunk.css.map",
-    "static/js/2.82747191.chunk.js.LICENSE.txt": "/robofriends/static/js/2.82747191.chunk.js.LICENSE.txt",
-    "static/media/pet.578435f6.jpg": "/robofriends/static/media/pet.578435f6.jpg"
+    "main.css": "/MemeGenerator/static/css/main.bd12c737.chunk.css",
+    "main.js": "/MemeGenerator/static/js/main.c74637f7.chunk.js",
+    "main.js.map": "/MemeGenerator/static/js/main.c74637f7.chunk.js.map",
+    "runtime-main.js": "/MemeGenerator/static/js/runtime-main.47b34d51.js",
+    "runtime-main.js.map": "/MemeGenerator/static/js/runtime-main.47b34d51.js.map",
+    "static/js/2.82747191.chunk.js": "/MemeGenerator/static/js/2.82747191.chunk.js",
+    "static/js/2.82747191.chunk.js.map": "/MemeGenerator/static/js/2.82747191.chunk.js.map",
+    "static/js/3.b51f9c3d.chunk.js": "/MemeGenerator/static/js/3.b51f9c3d.chunk.js",
+    "static/js/3.b51f9c3d.chunk.js.map": "/MemeGenerator/static/js/3.b51f9c3d.chunk.js.map",
+    "index.html": "/MemeGenerator/index.html",
+    "static/css/main.bd12c737.chunk.css.map": "/MemeGenerator/static/css/main.bd12c737.chunk.css.map",
+    "static/js/2.82747191.chunk.js.LICENSE.txt": "/MemeGenerator/static/js/2.82747191.chunk.js.LICENSE.txt",
+    "static/media/pet.578435f6.jpg": "/MemeGenerator/static/media/pet.578435f6.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.714aaf2b.js",
+    "static/js/runtime-main.47b34d51.js",
     "static/js/2.82747191.chunk.js",
     "static/css/main.bd12c737.chunk.css",
     "static/js/main.c74637f7.chunk.js"
