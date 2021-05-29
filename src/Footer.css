@@ -1,0 +1,10 @@
+.fixed-footer{
+bottom: 0;
+width: 100%;
+/*position: fixed;        */
+background: lightgrey;
+padding: 10px 0;
+margin-top: 50px;
+font-family: fantasy;
+font-size: 1.2rem;
+}
